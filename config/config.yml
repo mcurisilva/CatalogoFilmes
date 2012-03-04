@@ -1,0 +1,21 @@
+#database:
+#  dbname: filmes
+#  host: localhost
+#  driver: pgsql
+#  user: postgres
+#  password: postgres
+#
+#project_configuration:
+#  directory: /home/92335667572/filmes
+
+database:
+  dbname: filmes.sqlite
+  host: localhost
+  driver: sqlite
+  user: 
+  password: 
+
+project_configuration:
+  #directory: C:\ListaFilmes
+  directory: /media/4B1A-A12F/Filmes
+  #directory: /home/92335667572/filmes
